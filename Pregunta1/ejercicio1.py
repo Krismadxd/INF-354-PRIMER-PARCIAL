@@ -1,5 +1,5 @@
 import csv
-
+#https://colab.research.google.com/drive/19LHkCmshtq8_O6Vo_uuv7vR9xKy9KMrK#scrollTo=gqTKqI-drAHF&uniqifier=1
 # Leer el archivo CSV
 with open('/content/sample_data/Pokemon.csv', mode ='r') as file:
     csvFile = csv.reader(file)
